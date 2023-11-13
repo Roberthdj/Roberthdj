@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Roberth de Jesus Rodriguez Castro</h1>
-<h3 align="center">I am a backend development student, I am Colombian and I am focused on learning Java and python in addition to tools associated with backend development such as SQL, git, etc.</h3>
+<h3 align="center">I am a backend development student, I am Colombian.</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roberthdj" alt="roberthdj" /></a> </p>
+
+- 🌱 I’m currently learning **I am focused on learning Java and Python, associated Frameworks (Spring Boot & Django) as well as tools necessary for backend development such as SQL, git, etc.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/roberthdj-rodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roberthdj-rodriguez" height="30" width="40" /></a>
+<a href="https://instagram.com/roberthdj83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roberthdj83" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
